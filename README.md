@@ -2,7 +2,7 @@
 
 Binder links:
 
-* All week 1 notebooks [![Binder](https://mybinder.org/badge_logo.svg)](question 1.ipynb)
+* All week 1 notebooks [![Binder](https://mybinder.org/badge_logo.svg)](http://localhost:8888/tree/5300/final%20exam)
 
-* Jupyter and Python introduction, Part 1 [![Binder](https://mybinder.org/badge_logo.svg)](question 1.ipynb)
+* Jupyter and Python introduction, Part 1 [![Binder](https://mybinder.org/badge_logo.svg)](http://localhost:8888/tree/5300/final%20exam)
 
